@@ -1,28 +1,16 @@
-# 𝕊𝕝𝕒𝕥𝕖 𝕌𝕟𝕓𝕝𝕠𝕔𝕜𝕖𝕣
-The 6th Unblocker in the greatsword series.
+# Node Unblocker Revamped
 
-Showcase at the bottom of this README
+ 
+ A web proxy that allows users to evade filters and censorship and access blocked websites, With the added support of bypassing GoGuardian and iboss.
 
-Deploy with csb or (possibly) Aws console
 
-Idk man
-# 𝕎𝕙𝕒𝕥 𝕚𝕤 𝕊𝕝𝕒𝕥𝕖 𝕌𝕟𝕓𝕝𝕠𝕔𝕜𝕖𝕣?
-Slate is an Unblocker made by JustTacoJohn using Rhodium.
-# 𝕆𝕦𝕣 𝕕𝕚𝕤𝕔𝕠𝕣𝕕
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2xmannygamingx%2Fnodeunblockerrevamped)
 
-https://discord.gg/BMxe6D9CKv
 
-# ℂ𝕣𝕖𝕕𝕚𝕥 
+# About the project
 
-* Made with rhodium because im a lazy boi
+Most of the source code is from [Nathan Friedly](http://nfriedly.com/). Again all I did was add Iboss & GoGuardian Support.
+You can find the original [here.](https://github.com/nfriedly/node-unblocker)
 
-* Inspired by cosmic
-
-* Thanks to my server members for supporting this project.
-
-# 𝕊𝕙𝕠𝕨𝕔𝕒𝕤𝕖:
-------
-***The background is animated***
-
-<img width="960" alt="image" src="https://github.com/Tacogamerman/Slate/assets/119009502/aca0d619-90a6-4d8d-a676-3d289afb585f">
+This project is released under the terms of the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.html).
 
